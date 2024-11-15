@@ -1,19 +1,15 @@
+![2 player](https://img.shields.io/badge/players-2-green)
+
 # Army Ants
-
-![2 player](https://img.shields.io/badge/number_of_players-2-blue)
-
-♥️♣️♦️♠️
-> [!IMPORTANT]
-> Materials:
-> standard card deck (32, 48 or 52 cards)
+> Materials: standard card deck (32, 48 or 52 cards)
 
 ## Introduction
 Army Ants is a layout type game and simulates a battle between two colonies of army ants, the red ants and the black ants.
 
 ## Preperation
-Before play, each player should be given a specific set of cards from a standard deck. One player given all the red cards from the deck (cards in the suit of hearts and diamonds) in the ranks of Ace, 2, 3, 4, 5, 6, 7, 8, and 9. In addition that player should be given one red Queen. This player will represent the colony of red ants.
+Before play, each player should be given a specific set of cards from a standard deck. One player given all the red cards from the deck (cards in the suit of ♥️ and ♦️) in the ranks of Ace, 2, 3, 4, 5, 6, 7, 8, and 9. In addition that player should be given one red Queen. This player will represent the colony of red ants.
 
-Meanwhile, the opponent would similarly get the black cards (cards in the suits of spades and clubs) in each of the denominations Ace, 2, 3, 4, 5, 6, 7, 8, and 9 as well as one black Queen. This player represents the black ant colony. The relative ranking of all these cards as used for this game is as follows, from highest to lowest: 9, 8, 7, 6, 5, 4, 3, 2, Ace, Queen.
+Meanwhile, the opponent would similarly get the black cards (cards in the suits of ♠️ and ♣️) in each of the denominations Ace, 2, 3, 4, 5, 6, 7, 8, and 9 as well as one black Queen. This player represents the black ant colony. The relative ranking of all these cards as used for this game is as follows, from highest to lowest: 9, 8, 7, 6, 5, 4, 3, 2, Ace, Queen.
 
 The game itself is played on a sort of virtual grid or board of 8 rows of 5 cards each. At the start, this grid is divided in half, with one half this grid controlled by the red ant player and the other half of the board by the blank ant player.
 
