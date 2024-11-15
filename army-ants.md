@@ -1,7 +1,8 @@
-
 # Army Ants
-> Materials: standard card deck (32, 48 or 52 cards)
+
 ![2 player](https://img.shields.io/badge/players-2-green)
+
+> Materials: standard card deck (32, 48 or 52 cards)
 
 ## Introduction
 Army Ants is a layout type game and simulates a battle between two colonies of army ants, the red ants and the black ants.
