@@ -1,3 +1,5 @@
-# Card Games
+# Collection
 
-### [Army Ants (2p)](army-ants.md)
+| Name                          | Players |
+| ----------------------------- | ------- |
+| [Army Ants](army-ants.md)     | 2       |
