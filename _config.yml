@@ -2,8 +2,8 @@ title: Card Games
 title_separator: "-"
 description: Collection of card games
 show_downloads: false
-plugins:
-  - jekyll-remote-theme
-remote_theme: mmistakes/minimal-mistakes@master
+# plugins:
+#   - jekyll-remote-theme
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: en-US
