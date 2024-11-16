@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 ---
 
-_player_: 2, _materials_: standard card deck (52 cards)
+_player_: 2, _materials_: 52 card deck, 2 six-sided dice (🎲🎲), number of counters (📦)
 
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-3PdufVVTTI?controls=0" frameborder="0" allowfullscreen></iframe>
