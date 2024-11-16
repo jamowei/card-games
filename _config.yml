@@ -6,8 +6,8 @@ repository: jamowei/card-games
 show_downloads: false
 plugins:
   - jekyll-include-cache
-remote_theme: mmistakes/minimal-mistakes@master
-minimal_mistakes_skin: contrast # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: en-US
 include:
   - _pages

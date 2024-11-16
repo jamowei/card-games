@@ -3,8 +3,7 @@ title: Army Ants
 toc: true
 ---
 
-![2 player](https://img.shields.io/badge/players-2-green)
-
+> 2 players
 > Materials: standard card deck (32, 48 or 52 cards)
 
 ## Introduction
