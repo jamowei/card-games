@@ -9,7 +9,7 @@ _player_: 4,6,8, _materials_: 52 card deck
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/5uoWu8G4pII?controls=0" frameborder="0" allowfullscreen></iframe>
 
-## Preperation
+## Preparation
 
 There are usually 4 players, but it is possible for a larger even number of people to play. The players are divided into teams with 2 players in each team; the partners sit across from each other.
 
@@ -21,7 +21,7 @@ After any round any team is allowed to agree new signals; they may want to do th
 
 Then you have to choose an dealer. The dealer deals four cards to every player. After everyone has looked at their cards, the dealer deals four more cards, one at a time, in a row face up in the middle.
 
-## Gameplay
+## Play Game
 
 When the last card has been turned up by the dealer, any player can pick up one card of the face up cards from the middle, add it to their hand, and immediately discard a different card face up in its place. Players do not take turns. If two players want the same face up card, the first player to touch it gets it.
 

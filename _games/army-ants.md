@@ -12,7 +12,7 @@ _players: 2, materials: standard card deck (32, 48 or 52 cards)_
 ## Introduction
 Army Ants is a layout type game and simulates a battle between two colonies of army ants, the red ants and the black ants.
 
-## Preperation
+## Preparation
 Before play, each player should be given a specific set of cards from a standard deck. One player given all the red cards from the deck (cards in the suit of ♥️ and ♦️) in the ranks of Ace, 2, 3, 4, 5, 6, 7, 8, and 9. In addition that player should be given one red Queen. This player will represent the colony of red ants.
 
 Meanwhile, the opponent would similarly get the black cards (cards in the suits of ♠️ and ♣️) in each of the denominations Ace, 2, 3, 4, 5, 6, 7, 8, and 9 as well as one black Queen. This player represents the black ant colony. The relative ranking of all these cards as used for this game is as follows, from highest to lowest: 9, 8, 7, 6, 5, 4, 3, 2, Ace, Queen.
@@ -23,7 +23,7 @@ To start each player randomly shuffles his stack of 19 cards and then deals out 
 
 ![layout]({{ site.url }}{{ site.baseurl }}/assets/images/army-ants-layout.jpg)
 
-## Gameplay
+## Play Game
 
 The game is actually played in two phases. First is the setup phase and then upon it's conclusion is the battle phase.
 

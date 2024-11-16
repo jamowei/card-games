@@ -19,7 +19,7 @@ First, separate the playing card deck into 2 decks, one that contains Jacks, Que
 
 Each player receives 6 cards from the noble deck, than selects 3 nobles to put in front of them (this area is the player’s <ins>courtyard</ins>, all further nobles they control will be placed here). Each player can have any mix of Jacks, Queens and Kings as they desire (including multiple copies of the same noble). The remaining 6 noble cards that weren’t selected get shuffled and become the noble deck for use later in the game. Determine who goes first, than each player gets dealt 6 cards from the number deck and the game is ready to begin. Player’s alternate turns starting with the first player.
 
-## Gameplay
+## Play Game
 
 1. Beginning of Turn Actions
 2. Generate Resources
