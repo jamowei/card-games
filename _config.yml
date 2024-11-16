@@ -9,6 +9,8 @@ plugins:
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: en-US
+show_date: true
+read_time: true
 include:
   - _pages
 atom_feed:

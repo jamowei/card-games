@@ -1,6 +1,7 @@
 ---
 title: Dueling Nobles
 toc: true
+toc_sticky: true
 ---
 
 _player_: 2, _materials_: standard card deck (52 cards)

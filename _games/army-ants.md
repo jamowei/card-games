@@ -1,6 +1,7 @@
 ---
 title: Army Ants
 toc: true
+toc_sticky: true
 ---
 
 _players: 2, materials: standard card deck (32, 48 or 52 cards)_
