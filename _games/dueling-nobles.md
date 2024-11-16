@@ -3,7 +3,7 @@ title: Dueling Nobles
 toc: true
 ---
 
-![2 player](https://img.shields.io/badge/number_of_players-2-blue)
+_player_: 2, _materials_: standard card deck (52 cards)
 
 ## Introduction
 
