@@ -27,7 +27,7 @@ The game is actually played in two phases. First is the setup phase and then upo
 In the initial setup phase of the game, each player may make five moves on his side of the board (in turns). The red ant player starts and the turn then alternates amongst the two players. 
 
 If one player finds that his queen was dealt anywhere on his top line of cards (closest to his opponent's front line of cards), he may, instead of making any of his five moves during the setup phase, alternately opt to play a "Queen's Gambit", in which he simply moves his Queen from it's current position where it is found on that front line, to the one empty space at the back line on his side of the game grid. However, a player using the Queen's Gambit option is not entitled to make the normal five moves during the setup phase and thus, a player who has made any other moves, cannot then opt for the Queen's Gambit.
-{: .notice--info}
+{: .notice--warning}
 
 During the setup phase, the player may only make <ins>March Moves</ins> and <ins>Swap Moves</ins> (see [below](#moves)), or the Queen's Gambit, where appropriate and, during this setup phase a player may never move any of his card onto the side of the board on which his opponents ants are arranged.
 
@@ -45,13 +45,13 @@ In order to capture his opponent's Queen the players have a variety of move type
 
 <ins>Move Out Move</ins>: A move out move is such a move, in which a player may move one card of his ant color, any number of spaces, both vertically and horizontally, in the same move as long as there is an unobstructed path for which this card can move from it's starting position to it's ending position. The card can never move diagonally and cannot pass over or through any other cards (of either color) and must stay within the confines of the grid.
 
-<ins>Attack Move</ins>: An Attack or Capture move is a play a player makes on his turn in which he attacks one of his opponent's cards. The target of the Attack may be immediately adjacent or any number of spaces vertically or horizontally away from the attacking card. However, the attacking card may never pass through any intervening cards and may only travel in one direction. A card may only attack a card controlled by his opponent, and that card must be of the same or lower ranked. If the attacker and defender are both of the same rank, both cards are removed from the board. If the attacker is a higher ranked card than the defender, the defending card is removed from the board and the attacking card finishes the capture on the space previously occupied by the defending card.
+<ins>Attack Move</ins>: An Attack move is a play a player makes on his turn in which he attacks one of his opponent's cards. The target of the Attack may be immediately adjacent or any number of spaces vertically or horizontally away from the attacking card. However, the attacking card may never pass through any intervening cards and may only travel in one direction. A card may only attack a card controlled by his opponent, and that card must be of the same or lower ranked. If the attacker and defender are both of the same rank, both cards are removed from the board. If the attacker is a higher ranked card than the defender, the defending card is removed from the board and the attacking card finishes the attack on the space previously occupied by the defending card.
 
 ![moves]({{ site.url }}{{ site.baseurl }}/assets/images/army-ants-moves.jpg)
 
-The Queen may never initiate a capture move, but may participate in any of the other move types as long as the move is valid. In performing legal moves, cards may move in any direction, either horizontally or vertically on the grid, and can also move backwards towards the player.
+The Queen may never initiate a attack move, but may participate in any of the other move types as long as the move is valid. In performing legal moves, cards may move in any direction, either horizontally or vertically on the grid, and can also move backwards towards the player.
 {: .notice--info}
 
 ## Ending
 
-The game continues with the players alternating turns until one player manages to capture the opponent's Queen on his turn. However, if the configuration of the board is such that both players only have one card remaining (the Queen) the game immediately ends in a draw. In addition, if both players make the same series of moves 4 times in succession, the game also ends in a draw.
+The game continues with the players alternating turns until one player manages to attack the opponent's Queen on his turn. However, if the configuration of the board is such that both players only have one card remaining (the Queen) the game immediately ends in a draw. In addition, if both players make the same series of moves 4 times in succession, the game also ends in a draw.
