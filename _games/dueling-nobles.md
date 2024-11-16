@@ -60,7 +60,7 @@ All suit abilities only work once per game per player, and only at the beginning
 
 * Queens: 12 ⚔️, 2 🩸 max. Queens have +3 ⚔️ for each other noble in the same courtyard as them.
 
-* Kings: 13 ⚔️, 3 🩸 max. At the beginning of your turn you may 🩸 the king to generate 1 📦 (once per turn). Kings roll 🎲🎲 to add to their ⚔️ total instead of 1.
+* Kings: 13 ⚔️, 3 🩸 max. At the beginning of your turn you may 🩸 the king to generate 1 📦 (once per turn). Kings roll two 🎲🎲 to add to their ⚔️ total instead of 🎲.
 
 ## End Game
 If the number deck runs out, re-shuffle the discard pile and use it as the number deck. If the noble deck runs out, then neither player can draw new nobles until some nobles are killed. The first person to kill all of their opponent’s nobles wins the game.
