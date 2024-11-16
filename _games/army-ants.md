@@ -3,7 +3,7 @@ title: Army Ants
 toc: true
 ---
 
-_player_: 2, _materials_: standard card deck (32, 48 or 52 cards)
+_players: 2, materials: standard card deck (32, 48 or 52 cards)_
 
 ## Introduction
 Army Ants is a layout type game and simulates a battle between two colonies of army ants, the red ants and the black ants.
