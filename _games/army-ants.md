@@ -18,7 +18,7 @@ The game itself is played on a sort of virtual grid or board of 8 rows of 5 card
 
 To start each player randomly shuffles his stack of 19 cards and then deals out these out on his side of the grid. He deals these out first in three rows of five cards each, and then, in the back row, furthest from the center of the grid, he deals out four cards, leaving the center space in that row empty (with no cards found in it). These cards are dealt face-up to the grid, each player filling out his side of the grid with these cards as randomly dealt.
 
-![layout](/assets/images/army-ants-layout.jpg)
+![layout]({{ site.url }}{{ site.baseurl }}/assets/images/army-ants-layout.jpg)
 
 ## Gameplay
 
@@ -27,8 +27,8 @@ The game is actually played in two phases. First is the setup phase and then upo
 ### Setup Phase
 In the initial setup phase of the game, each player may make five moves on his side of the board (in turns). The red ant player starts and the turn then alternates amongst the two players. 
 
-> [!NOTE]
-> If one player finds that his queen was dealt anywhere on his top line of cards (closest to his opponent's front line of cards), he may, instead of making any of his five moves during the setup phase, alternately opt to play a "Queen's Gambit", in which he simply moves his Queen from it's current position where it is found on that front line, to the one empty space at the back line on his side of the game grid. However, a player using the Queen's Gambit option is not entitled to make the normal five moves during the setup phase and thus, a player who has made any other moves, cannot then opt for the Queen's Gambit.
+If one player finds that his queen was dealt anywhere on his top line of cards (closest to his opponent's front line of cards), he may, instead of making any of his five moves during the setup phase, alternately opt to play a "Queen's Gambit", in which he simply moves his Queen from it's current position where it is found on that front line, to the one empty space at the back line on his side of the game grid. However, a player using the Queen's Gambit option is not entitled to make the normal five moves during the setup phase and thus, a player who has made any other moves, cannot then opt for the Queen's Gambit.
+{: .notice--info}
 
 During the setup phase, the player may only make <ins>March Moves</ins> and <ins>Swap Moves</ins> (see [below](#moves)), or the Queen's Gambit, where appropriate and, during this setup phase a player may never move any of his card onto the side of the board on which his opponents ants are arranged.
 
@@ -48,10 +48,10 @@ In order to capture his opponent's Queen the players have a variety of move type
 
 <ins>Attack Move</ins>: An Attack or Capture move is a play a player makes on his turn in which he attacks one of his opponent's cards. The target of the Attack may be immediately adjacent or any number of spaces vertically or horizontally away from the attacking card. However, the attacking card may never pass through any intervening cards and may only travel in one direction. A card may only attack a card controlled by his opponent, and that card must be of the same or lower ranked. If the attacker and defender are both of the same rank, both cards are removed from the board. If the attacker is a higher ranked card than the defender, the defending card is removed from the board and the attacking card finishes the capture on the space previously occupied by the defending card.
 
-![moves](/assets/images/army-ants-moves.jpg)
+![moves]({{ site.url }}{{ site.baseurl }}/assets/images/army-ants-moves.jpg)
 
-> [!NOTE]
-> The Queen may never initiate a capture move, but may participate in any of the other move types as long as the move is valid. In performing legal moves, cards may move in any direction, either horizontally or vertically on the grid, and can also move backwards towards the player.
+The Queen may never initiate a capture move, but may participate in any of the other move types as long as the move is valid. In performing legal moves, cards may move in any direction, either horizontally or vertically on the grid, and can also move backwards towards the player.
+{: .notice--info}
 
 ## Ending
 
