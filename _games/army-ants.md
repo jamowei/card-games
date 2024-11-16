@@ -6,6 +6,9 @@ toc_sticky: true
 
 _players: 2, materials: standard card deck (32, 48 or 52 cards)_
 
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/GzIFmhSDNkw?controls=0" frameborder="0" allowfullscreen></iframe>
+
 ## Introduction
 Army Ants is a layout type game and simulates a battle between two colonies of army ants, the red ants and the black ants.
 
@@ -53,6 +56,6 @@ In order to capture his opponent's Queen the players have a variety of move type
 The Queen may never initiate a attack move, but may participate in any of the other move types as long as the move is valid. In performing legal moves, cards may move in any direction, either horizontally or vertically on the grid, and can also move backwards towards the player.
 {: .notice--info}
 
-## Ending
+## End Game
 
 The game continues with the players alternating turns until one player manages to attack the opponent's Queen on his turn. However, if the configuration of the board is such that both players only have one card remaining (the Queen) the game immediately ends in a draw. In addition, if both players make the same series of moves 4 times in succession, the game also ends in a draw.
